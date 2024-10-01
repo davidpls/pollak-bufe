@@ -14,10 +14,7 @@ defineProps({
   >
     <RouterLink to="/extrak/1">
       <img
-        src="https://static.streetkitchen.hu/live/uploads/2017/04/img_8828.jpg"
-        alt=""
-        class="w-full h-4/5 mb-2"
-      />
+        src="https://static.streetkitchen.hu/live/uploads/2017/04/img_8828.jpg" alt="" class="w-full h-4/5 mb-2"/>
       <p class="font-sans h-[12%] leading-4">{{ nev }}</p>
       <p class="font-sans font-bold h-[8%]">{{ ar }} Ft</p>
     </RouterLink>
